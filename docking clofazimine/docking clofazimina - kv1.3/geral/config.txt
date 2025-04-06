@@ -1,0 +1,16 @@
+receptor = AF_P22001_F1_model_v4_model1.pdbqt
+ligand = Clofazimina.pdbqt
+
+out = clofazimina_dockada_kv1.3.pdbqt
+
+center_x = -10.248233
+center_y = -1.084213
+center_z = 4.779573
+
+size_x = 20.0
+size_y = 20.0
+size_z = 20.0
+
+exhaustiveness = 8
+
+
